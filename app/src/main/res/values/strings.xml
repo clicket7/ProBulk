@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ProBulk</string>
+    <string name="newBulk">Pievienot jaunu bulciņu</string>
+    <string name="modBulk">Modificēt bulciņas parametrus</string>
+    <string name="sales">Pievienot datus par pārdošanam</string>
+    <string name="salesmod">Modificēt pārdošanas datus</string>
+    <string name="back">Atpakaļ</string>
+    <string name="addBulkLabel">Pievienot jaunu bulciņu</string>
+    <string name="addBulkName">Bulciņas nosaukums</string>
+    <string name="addBulkCost">Bulciņas izmaksas</string>
+    <string name="addBulkPrice">Bulciņas cena</string>
+    <string name="addBulkPriceOld">Vecas bulciņas cena</string>
+    <string name="forecastBulk">Iegūt prognozi</string>
+    <string name="salesBulkLabel">Pievienot informāciju par pardošanam</string>
+    <string name="salesBulkName">Izvēlējiet bulciņu</string>
+    <string name="salesBulkCount">Pārdotas bulciņas skaits</string>
+    <string name="salesBulkCooked">Izceptas bulciņas skaits</string>
+    <string name="salesBulkAdd">Pievienot informāciju</string>
+    <string name="salesBulkMod">Izmainīt esošu informāciju</string>
+    <string name="forecastBulkLabel">Iegūt prognozi</string>
+    <string name="deleteBulk">Dzēst bulciņu</string>
+    <string name="euro">€</string>
+    <string name="bulkID">Bulciņas ID: </string>
+    <string name="sellDate">Pardošanas datums</string>
+    <string name="send">Atsūtīt informāciju uz e-pastu</string>
+    <string name="email">E-Pasts: </string>
+    <string name="deleteSales">Dzēst ierakstu</string>
+    <string name="reload">Ielādēt</string>
+    <string name="tableData">Datu tabula</string>
+    <string name="tables">Tabulas:</string>
+    <string name="photo">Attēls</string>
+    <string name="getdate">Kalendārs</string>
+</resources>
